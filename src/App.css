@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color:#53565A; /* Replace with your desired color */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  height: 100%; /* Ensure it covers the full height */
+}
+
+html {
+  height: 100%; /* Ensure it covers the full height */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.bg-darker-gray{
+  background-color: #53565A;
+}
+.bg-dark-gray{
+  background-color: #888B8D;
+}
+.bg-mid-gray{
+  background-color: #A7A8A9;
+}
+.bg-light-gray{
+  background-color: #C8C9C7;
+}
+.bg-lighter-gray{
+  background-color: #E1DFDD;
+}
+.darker-gray-text{
+  color: #53565A;
+}
+.dark-gray-text{
+  color: #888B8D;
+}
+.mid-gray-text{
+  color: #A7A8A9;
+}
+.light-gray-text{
+  color: #C8C9C7;
+}
+.lighter-gray-text{
+  color: #E1DFDD;
+}
