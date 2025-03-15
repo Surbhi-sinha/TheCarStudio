@@ -2,7 +2,7 @@
 
 **The CarStudio** is an interactive web application designed for car enthusiasts, offering a seamless and immersive experience in car customization and exploration. The platform combines cutting-edge 3D rendering, hover previews, and a car picture gallery to deliver a modern and engaging user experience.
 
-[Live Link - The CarStudio]()
+[Live Link - The CarStudio](https://the-car-studio.vercel.app/)
 
 ---
 
@@ -48,7 +48,7 @@
    ```
 2. Navigate to the project directory:
    ```bash
-   cd customcar360 // change
+   cd TheCarStudio
    ```
 3. Install dependencies:
    ```bash
