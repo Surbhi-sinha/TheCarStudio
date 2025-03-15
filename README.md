@@ -12,14 +12,18 @@
 - Customize car colors, wheels, and backgrounds in real-time.
 - View the car in a fully interactive 3D environment using `.glb` files.
 - Smooth and responsive controls for rotating, zooming, and exploring the car.
+- ![alt text](thecarcustomiser.gif)
 
 ### 2. **Hover Previews**
 - Preview websites by hovering over links.
 - Enhance user experience with quick and interactive previews.
+  ![alt text](image-2.png)
+![alt text](image-1.png)
 
 ### 3. **Car Picture Gallery**
 - A visually appealing gallery showcasing high-quality car images.
 - Lazy loading for faster performance and optimized loading times.
+ ![alt text](image.png)
 
 ### 4. **Responsive Design**
 - Fully responsive layout for seamless use across devices (desktop, tablet, and mobile).
